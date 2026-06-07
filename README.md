@@ -207,41 +207,9 @@ Continue critical retail operations without internet connectivity through local 
 | **V Sameer Reddy** | [Profile](https://www.linkedin.com/in/sameer-reddy-vedium-goat)           | [Profile](https://github.com/sameerreddy789)           |
 
 
-## 🚀 Getting Started
 
-### Prerequisites
 
-* Modern Web Browser
-* Firebase Project
-* Internet Connection (for cloud synchronization)
 
-### Installation
-
-```bash
-git clone <repository-url>
-cd shopsmart
-```
-
-### Configure Firebase
-
-* Create a Firebase Project
-* Enable Authentication
-* Enable Firestore Database
-* Add Firebase Configuration
-
-### Run Locally
-
-```bash
-python -m http.server 5500
-```
-
-or
-
-```bash
-npx serve .
-```
-
----
 
 ## 🌟 ISTE Showcase
 
