@@ -196,7 +196,7 @@ Continue critical retail operations without internet connectivity through local 
 
 ---
 
-## 👥 Team Cloud Nine
+
 ## 👥 Team Cloud Nine
 
 | Team Member        | LinkedIn                                                                  | GitHub                                                        |
