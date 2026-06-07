@@ -197,46 +197,15 @@ Continue critical retail operations without internet connectivity through local 
 ---
 
 ## 👥 Team Cloud Nine
+## 👥 Team Cloud Nine
 
-### 👩‍💻 Soniya Reddy B
+| Team Member        | LinkedIn                                                                  | GitHub                                                        |
+| ------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **Soniya Reddy B** | [Profile](https://www.linkedin.com/in/soniya-reddy-bheemireddy-a24342344) | [Profile](https://github.com/Soniyabheemireddy)     |
+| **D Jwala Lasya**  | [Profile](https://www.linkedin.com/in/jwala-lasya-b30595351)              | [Profile](https://github.com/lasyajwala2109-sudo) |
+| **B Dedeepya**     | [Profile](https://linkedin.com/in/dedeepya-baratam-15642b383/)            | [Profile](https://github.com/Dedeepya-baratam-07) |
+| **V Sameer Reddy** | [Profile](https://www.linkedin.com/in/sameer-reddy-vedium-goat)           | [Profile](https://github.com/sameerreddy789)           |
 
-**LinkedIn**
-https://www.linkedin.com/in/soniya-reddy-bheemireddy-a24342344
-
-**GitHub**
-https://github.com/Soniyabheemireddy
-
----
-
-### 👩‍💻 D Jwala Lasya
-
-**LinkedIn**
-https://www.linkedin.com/in/jwala-lasya-b30595351
-
-**GitHub**
-https://github.com/lasyajwala2109-sudo
-
----
-
-### 👩‍💻 B Dedeepya
-
-**LinkedIn**
-https://linkedin.com/in/dedeepya-baratam-15642b383/
-
-**GitHub**
-https://github.com/Dedeepya-baratam-07
-
----
-
-### 👨‍💻 V Sameer Reddy
-
-**LinkedIn**
-https://www.linkedin.com/in/sameer-reddy-vedium-goat
-
-**GitHub**
-https://github.com/sameerreddy789
-
----
 
 ## 🚀 Getting Started
 
