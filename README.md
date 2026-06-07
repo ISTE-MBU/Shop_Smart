@@ -33,7 +33,7 @@ This repository contains the source code, supporting modules, and resources asso
 
 ## 🌐 Live Demo
 
-🔗 [Demo URL]
+🔗 https://shop-smart-phi-seven.vercel.app/
 
 ---
 
